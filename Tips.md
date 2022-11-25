@@ -47,3 +47,5 @@ But sometimes, like with databases, you want to make sure the data gets to stora
 eg.
 string s;
 getline(cin,s);
+
+getline works only for string inputs
